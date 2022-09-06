@@ -18,7 +18,7 @@ for x in cells:
     for y in x:
         print("Element",y )
     
-
+# end='' refer to remove the newline charater.
 for x in cells:
     for y in x:
         print(y, '', end='' )
